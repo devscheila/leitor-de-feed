@@ -22,10 +22,6 @@ OU
 2. Localize o arquivo `index.html` e clique duas vezes sobre ele.
 3. O arquivo será aberto em seu navegador padrão.
 
-OU
-
-1. Clique aqui para acessar online: [Leitor de Feed](https://sstihler.github.io/leitor-de-feed/)
-
 ### Lista de dependências
 
 1. HTML
@@ -33,3 +29,4 @@ OU
 3. JavaScript
 4. Jasmine
 5. JQuery
+6. Handlebars
