@@ -6,11 +6,11 @@ Ao final da página é exibido a lista de testes executados.
 
 ### Instruções para baixar o projeto
 
-1. Faça o clone deste projeto com `git clone https://github.com/sstihler/leitor-de-feed.git`.
+1. Faça o clone deste projeto com `git clone https://github.com/devscheila/leitor-de-feed.git`.
 
 OU
 
-1. Abra o navegador de sua preferência e acesse: `https://github.com/sstihler/leitor-de-feed`;
+1. Abra o navegador de sua preferência e acesse: `https://github.com/devscheila/leitor-de-feed`;
 2. Localize o botão `Clone or download` no canto superior direito da tela;
 3. Clique no botão `Clone or download` e clique na opção `Download ZIP`;
 4. Escolha a pasta onde deseja salvar o arquivo em seu computador e confirme;
@@ -30,3 +30,4 @@ OU
 4. Jasmine
 5. JQuery
 6. Handlebars
+sstihler
